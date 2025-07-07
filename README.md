@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya K
+# 👋 Hi, I'm Aditya 
 
 🎓 2nd Year Computer Science Student at LPU
 💻 Aspiring Software & DevOps Engineer  
