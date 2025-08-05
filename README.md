@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya 
 
-🎓 2nd Year Computer Science Student at LPU
+🎓 3rd Year Computer Science Student at LPU
 💻 Aspiring Software & DevOps Engineer  
 🔧 Passionate about Linux, Docker, GitLab CI/CD, and automation  
 ☁️ Exploring Cloud (AWS & Azure)  
